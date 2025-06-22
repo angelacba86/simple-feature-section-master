@@ -3,7 +3,7 @@ body {
     background-image: url("img/Background_image.svg");
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     color: #E5E7EB;
     min-width: 412px;
